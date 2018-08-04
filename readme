@@ -1,1 +1,3 @@
 hello,this is a readme text!
+HOOK键盘消息，获取按键的字母。比如获取到用户连续输入love字符，就在屏幕上显示一句i love you too! 或者一张玫瑰图片。
+用户输入clear可以取消显示。
